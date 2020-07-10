@@ -1,5 +1,5 @@
 # Portfolio Landing Page
-#### This is my personal Portfolio page. It displays my projects, qualifications and hobbies.
+#### This is my personal Portfolio page. It displays my projects, qualifications and recent hobbies.
 #### By Timothy Munene
 ## Description
 My personal Portfolio lets potential employers see information about me,
