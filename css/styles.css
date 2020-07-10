@@ -24,4 +24,9 @@ body {
     background-color: #343148;
     color: white;
   }
+  .sidebar {
+    float: left;
+    background-color: #FFD662;
+    width: 30%;
+  }
 }
