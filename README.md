@@ -10,10 +10,7 @@ The motivation behind this portfolio is the need to display what I can do
 to potential employers or someone who wants to know about me.
 ## Tech used
 Languages used:
-  HTML
-  CSS
-  git
-  Ubuntu terminal
+  HTML, CSS, git, Ubuntu terminal
 ## Support details
 In case you find a bug, have questions or ideas of improvement kindly reach out
 ## History
