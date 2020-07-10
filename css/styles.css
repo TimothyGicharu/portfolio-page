@@ -5,6 +5,10 @@
   width: 50%;
   border-radius: 30px;
 }
+
+.column {
+  float: left;
+}
 h1 {
   text-align: center;
 }
@@ -18,15 +22,16 @@ body {
     background-color: magenta;
     color: gold;
   }
+  .sidebar {
+    float: left;
+    background-color: #FFD662;
+    width: 30%;
+  }
 }
 @media screen and (min-width: 768px) {
   body {
     background-color: #343148;
     color: white;
   }
-  .sidebar {
-    float: left;
-    background-color: #FFD662;
-    width: 30%;
-  }
+
 }
