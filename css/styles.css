@@ -3,18 +3,25 @@
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  border-radius: 30px;
 }
 h1 {
   text-align: center;
 }
+
 body {
   background-color: lightblue;
 }
 
-
-@media screen and (width: 480px) {
+@media screen and (min-width: 480px) and (max_width: 767px){
   body {
     background-color: magenta;
     color: gold;
+  }
+}
+@media screen and (min-width: 768px) {
+  body {
+    background-color: #343148;
+    color: #C62168;
   }
 }
